@@ -4,7 +4,6 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Frndo1203/airflow-introduction)
 ![GitHub language count](https://img.shields.io/github/languages/count/FRNDO1203/airflow-introduction)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 ![Github open issues](https://img.shields.io/github/issues/frndo1203/airflow-introduction)
 ![Bitbucket open pull requests](https://img.shields.io/github/issues-pr/frndo1203/airflow-introduction)
 
@@ -14,7 +13,7 @@
 ### tweaks and improvements
 
 The project is under development. See the features below:
-- [ ] Section 2 - Gettin Started
+- [X] Section 2 - Getting Started
 - [ ] Section 3 - The important views of the Airflow UI
 - [ ] Section 4 - First Data Pipeline
 - [ ] Section 5 - Scheduling DAGs
