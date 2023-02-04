@@ -14,9 +14,9 @@
 
 The project is under development. See the features below:
 - [X] Section 2 - Getting Started
-- [ ] Section 3 - The important views of the Airflow UI
-- [ ] Section 4 - First Data Pipeline
-- [ ] Section 5 - Scheduling DAGs
+- [X] Section 3 - The important views of the Airflow UI
+- [X] Section 4 - First Data Pipeline
+- [X] Section 5 - Scheduling DAGs
 - [ ] Section 6 - Databases and Executors
 - [ ] Section 7 - Advanced Concepts
 - [ ] Section 8 - Plugins w/ Elasticsearch and Postgres
